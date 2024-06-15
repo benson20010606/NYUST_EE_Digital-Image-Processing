@@ -7,10 +7,15 @@
 *Lab 02 : Implement average grayscale, maximum grayscale, and weighted grayscale.  
 *Lab 03 : Implement negative, log-transform, and histogram equalization.  
 *Lab 04 : Implement Median Filter, Mean Filter, Maximum Filter, Minimum Filter, adjustable thresholding, and Otsu's thresholding.  
-*Lab 05 : Implement image rotation and fisheye image transformation.  
+*Lab 05 : Implement image rotation and fisheye image transformation.    
 *Lab 06 : Implement image scaling using error diffusion.  
+<<<<<<< HEAD
 *Lab 07 : Implement dilation and erosionUse .   
 *Lab 08 : Opencv implement Lab1~Lab7 .   
+=======
+*Lab 07 : Implement dilation and erosion.   
+*Lab 08 : Opencv implement Lab1~Lab7.  
+>>>>>>> 0fc1adb971beca0f49df92da770299b5bf07a78f
 *Lab 09 : Implement Canny edge detection, contour finding (Findcontour), and circle detection using HoughCircle in OpenCV.  
 *Lab 10 : OpenCV application - Image streaming and real-time image processing .    
 
