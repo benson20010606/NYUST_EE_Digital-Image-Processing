@@ -28,4 +28,4 @@
 *Lab 10 : OpenCV application - Image streaming and real-time image processing .    
 
 
-![image](https://github.com/benson20010606/NYUST_EE_Digital-Image-Processing/tree/main/README_fig/UI.png)
+![image](README_fig/UI.png)
